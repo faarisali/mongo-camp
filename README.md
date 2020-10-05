@@ -8,7 +8,7 @@ You also need to install MongoDB from https://www.mongodb.com/try/download/commu
 
 To setup the node modules used in this project, run ```npm install```.
 
-Finally, to get the site working locally, run ```./s``` in the root directory terminal, the directory with the project.
+Finally, to get the site working locally, run ```./s``` in the root directory terminal.
 
 # If ```./s``` fails
 If it does not work, make sure the node server is running in your terminal and reload your browser.
