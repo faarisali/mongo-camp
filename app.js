@@ -28,7 +28,7 @@ const indexRoutes = require('./routes/index');
 const campgroundRoutes = require('./routes/campgrounds');
 const commentRoutes = require('./routes/comments');
 
-mongoose.connect(DB_URL_PRODUCTION, {
+mongoose.connect(DB_URL_LOCAL, {
     useNewUrlParser: true,
     useFindAndModify: false,
     useUnifiedTopology: true
