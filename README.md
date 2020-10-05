@@ -1,6 +1,6 @@
 # mongo-camp
 A web application that allows users to create campsite postings.
-You can checkout the site hosted on Heroku at http://mongo-camp.herokuapp.com/
+You can check out the site hosted on Heroku at http://mongo-camp.herokuapp.com/
 # Installation
 You need to make sure you have Node.js installed on the machine you wish to run the code on. You can install Node.js at https://nodejs.org/en/.
 
