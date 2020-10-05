@@ -1,10 +1,10 @@
 # mongo-camp
 A web application that allows users to create campsite postings.
 You can check out the site hosted on Heroku at http://mongo-camp.herokuapp.com/
-# Installation
-You need to make sure you have Node.js installed on the machine you wish to run the code on. You can install Node.js at https://nodejs.org/en/.
+# Setup Guide
+This project requires that Node.js be installed on the machine running the code. You can install Node.js at https://nodejs.org/en/.
 
-You also need to install MongoDB from https://www.mongodb.com/try/download/community. Make sure that you have a DB running at ```mongodb://localhost:27017/yelp_camp```. If your URL is different, change the ```DB_URL_LOCAL``` constant in app.js to the URL you are using.
+This project also needs to have MongoDB installed from https://www.mongodb.com/try/download/community. Make sure that you have a DB running at ```mongodb://localhost:27017/yelp_camp```. If your URL is different, change the ```DB_URL_LOCAL``` constant in app.js to the URL you are using.
 
 To setup the node modules used in this project, run ```npm install```.
 
